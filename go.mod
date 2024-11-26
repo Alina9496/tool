@@ -1,4 +1,4 @@
-module gitlab.com/diplom3034539/tool
+module github.com/Alina9496/tool
 
 go 1.22.2
 
